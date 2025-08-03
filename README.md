@@ -4,7 +4,7 @@ Do a `pip install` on the `requirements.txt` and run `python main.py`.
 
 I might add some more stuff to this repo in the future but for now its just a basic A\* demo.
 
-Below are my notes on A\* from Prof. Deng's course ([his website here](https://yuntiandeng.com/)) updated as of August 2026.
+Below are my notes on A\* from Prof. Deng's course ([his website here](https://yuntiandeng.com/)) updated as of August 2025.
 
 # TL;DR
 
